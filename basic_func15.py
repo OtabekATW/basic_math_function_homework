@@ -8,4 +8,5 @@ def main(a, b):
     Returns:
         int: the result.
     '''
-    return 0
+    result = a % b
+    return result 
