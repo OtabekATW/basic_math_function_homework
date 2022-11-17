@@ -8,4 +8,4 @@ def main(a, b):
     Returns:
         int: the result.
     '''
-    return
+    return 0
