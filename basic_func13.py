@@ -8,4 +8,4 @@ def main(a):
     Returns:
         float: the absolute value.
     '''
-    return sqrt(a)
+    return math.sqrt(a)
