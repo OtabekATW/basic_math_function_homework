@@ -8,5 +8,5 @@ def main(a, b):
     Returns:
         int: the result.
     '''
-    result = int(math.floor(a/b))
+    result = int(math.floor(a%b))
     return result
